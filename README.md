@@ -1,4 +1,4 @@
-# World Population Data Analysis Using Python libraries
+# World Population Data Analysis using Python libraries
 
 ## Project Introduction
 This project analyzes World Population Data to uncover patterns and trends, such as:
