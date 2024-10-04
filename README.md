@@ -1,4 +1,4 @@
-# World Population Data Analysis using Python libraries
+# World Population Data Analysis
 
 ## Project Introduction
 This project analyzes World Population Data to uncover patterns and trends, such as:
@@ -29,6 +29,14 @@ The main objective of this project is to provide valuable data-driven insights i
 - Processed and analyzed over 2 million data points, demonstrating proficiency in handling large datasets.
 - Enhanced accessibility through clear, compelling visualizations, improving project reach by 30%.
 - Contributed to population growth predictions with an 87% model accuracy.
+
+## Data Source
+The dataset used in this project was sourced from Kaggle's publicly available world population data.
+
+## Visualizations:
+- Population Growth: Visualizations of population growth trends over time.
+- Population Density: Density distribution across continents and countries.
+- Correlations: Visual representations of correlations between land area and population growth.
 
 ## Conclusion:
 This project demonstrates proficiency in data analysis and visualization, showcasing skills in handling large datasets and uncovering global demographic trends. The insights gained from this analysis can help drive informed decisions about future population planning and resource allocation.
